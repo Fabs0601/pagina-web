@@ -1,0 +1,51 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+
+    <channel>
+    <title>Tecnología en EL PAÍS</title>
+    <description>Las últimas noticias sobre tecnología</description>
+    <language>es</language>
+    <link>https://elpais.com</link>
+    <lastBuildDate>Mon, 05 May 2025 12:09:52 GMT</lastBuildDate>
+    <item>
+    <guid isPermaLink="true">https://elpais.com/tecnologia/tu-tecnologia/2025-05-05/edge-canva-word-estas-son-algunas-de-las-apps-mas-populares-que-ya-usan-la-ia.html</guid>
+    <title>Edge, Canva, Word... Estas son algunas de las apps más populares que ya usan la IA </title>
+    <pubDate>Mon, 05 May 2025 03:20:00 GMT</pubDate>
+
+    <link>https://elpais.com/tecnologia/tu-tecnologia/2025-05-05/edge-canva-word-estas-son-algunas-de-las-apps-mas-populares-que-ya-usan-la-ia.html</link>
+
+    <description>WhatsApp ha sido una de las últimas apps móviles en añadir una inteligencia artificial, pero hay más</description>
+    </item>
+
+    <item>
+    <guid isPermaLink="true">https://elpais.com/economia/2025-05-02/irlanda-multa-a-tiktok-con-530-millones-por-enviar-datos-de-usuarios-europeos-a-china.html</guid>
+    <title>Irlanda multa a TikTok con 530 millones por enviar datos de usuarios europeos a China </title>
+    <pubDate>Fri, 02 May 2025 14:01:29 GMT</pubDate>
+    <link>https://elpais.com/economia/2025-05-02/irlanda-multa-a-tiktok-con-530-millones-por-enviar-datos-de-usuarios-europeos-a-china.html</link>
+    <dcterms:alternative>El regulador de Dublín da medio año a la empresa para adaptarse a las normas de la UE. La filial de Bytedance explica que se le sanciona por un periodo anterior a 2023</dcterms:alternative>
+    <description>El regulador de Dublín da medio año a la empresa para adaptarse a las normas de la UE. La filial de Bytedance explica que se le sanciona por un periodo anterior a 2023</description>
+    </item>
+    <item>
+    <guid isPermaLink="true">https://elpais.com/tecnologia/2025-05-03/consume-pantallas-con-moderacion-se-puede-comparar-el-alcohol-con-el-uso-del-movil.html</guid>
+    <title>“Consume pantallas con moderación”. ¿Se puede comparar el alcohol con el uso del móvil?</title>
+    <pubDate>Sat, 03 May 2025 03:20:00 GMT</pubDate>
+    <link>https://elpais.com/tecnologia/2025-05-03/consume-pantallas-con-moderacion-se-puede-comparar-el-alcohol-con-el-uso-del-movil.html</link>
+    <description>Un nuevo estudio propone que los baremos del consumo de las bebidas alcohólicas sean adaptados a la adicción al uso de teléfonos, tabletas y consolas</description>
+
+    </item>
+    <item>
+    <guid isPermaLink="true">https://elpais.com/tecnologia/2025-05-02/europa-retrasa-su-codigo-de-buenas-practicas-de-ia-en-medio-de-presiones-directas-de-ee-uu.html</guid>
+    <title>Europa retrasa su código de buenas prácticas de IA en medio de presiones directas de EE UU </title>
+    <pubDate>Fri, 02 May 2025 03:20:00 GMT</pubDate>
+    <link>https://elpais.com/tecnologia/2025-05-02/europa-retrasa-su-codigo-de-buenas-practicas-de-ia-en-medio-de-presiones-directas-de-ee-uu.html</link>
+    <description>El Gobierno estadounidense intenta que la Comisión Europea rebaje la Ley de Inteligencia Artificial y carga contra la normativa, que no estará lista el 2 de mayo, como estaba previsto </description>
+
+    </item>
+    <item>
+    <guid isPermaLink="true">https://elpais.com/tecnologia/2025-05-01/de-la-megafonia-al-plan-mercurio-asi-se-comunicarian-las-autoridades-cuando-todo-falla.html</guid>
+    <title>De la megafonía al ‘plan Mercurio’: así se comunicarían las autoridades cuando todo fallase</title>
+    <pubDate>Thu, 01 May 2025 03:20:00 GMT</pubDate>
+    <link>https://elpais.com/tecnologia/2025-05-01/de-la-megafonia-al-plan-mercurio-asi-se-comunicarian-las-autoridades-cuando-todo-falla.html</link>
+    <description>Ante una caída de las infraestructuras digitales, los servicios de emergencias tienen previstos métodos alternativos para interpelar a la ciudadanía</description>
+    </item>
+    </channel>
+</rss>
